@@ -1,3 +1,7 @@
+@import url(hero-detail.component.css);
+@import url(heroes.component.css);
+@import url(dashboard.component.css);
+
 /* #docregion , quickstart, toh */
 /* Master Styles */
 h1 {
