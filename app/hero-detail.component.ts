@@ -8,8 +8,8 @@ import 'rxjs/add/operator/switchMap';
 @Component({
 
     selector: 'my-hero-detail',
-    templateUrl: '../hero-detail.html',
-    styleUrls: ['../hero-detail.component.css']
+    templateUrl: '../html/hero-detail.html',
+    styleUrls: ['../css/hero-detail.component.css']
 })
 
 export class HeroDetailComponent implements OnInit {
